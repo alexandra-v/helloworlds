@@ -1,2 +1,2 @@
 script:
-  - sh ./ci/check-sources.sh
+  - bash ./ci/check-sources.sh
