@@ -29,7 +29,7 @@ Write `Hello World` on the screen with four different programming languages.
 8. Commit and push to your fork.
 9. Create a Pull Request with your changes.
 10. Repeat steps 3. to 9. for `helloworld.py` `helloworld.sh` and
-`helloworld.sh`.
+`helloworld.js`.
 
 ## License
 
